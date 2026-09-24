@@ -22,8 +22,6 @@
 
 </div>
 
-<img align="right" width="270" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0d0d0d&text=%3C%2F%3E&fontColor=00ff9c&fontSize=80&fontAlignY=55&stroke=00ff9c&strokeWidth=1" />
-
 🎓 **Estudante de Ciência da Computação — 6º semestre**
 
 💻 Atuo profissionalmente em **Tecnologia da Informação**, com experiência prática em **Service Desk, Field Service e suporte à infraestrutura de TI**.
