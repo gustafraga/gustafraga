@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:0f2f22,100:00ff9c&text=Gustavo%20Fraga&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Infraestrutura%20de%20TI%20%E2%80%A2%20Field%20Service%20%E2%80%A2%20Futuro%20Cybersecurity&descAlignY=60&descSize=18&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:0f2f22,100:00ff9c&text=Gustavo%20Fraga&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Infraestrutura%20de%20TI%20%E2%80%A2%20Field%20Service%20%E2%80%A2%20Cybersecurity&descAlignY=60&descSize=18&animation=twinkling" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Infraestrutura+%7C+Service+Desk+%7C+Field+Service;Active+Directory+%7C+Redes+%7C+Suporte;Rumo+a+Cybersecurity+%26+SOC" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Infraestrutura+%7C+Service+Desk+%7C+Field+Service;Windows+%7C+Active+Directory+%7C+Redes;Rumo+a+Cybersecurity+%26+SOC" alt="Typing Animation" />
 
 <br>
 
@@ -28,11 +28,13 @@
 
 💻 Atuo profissionalmente em **Tecnologia da Informação**, com experiência prática em **Service Desk, Field Service e suporte à infraestrutura de TI**.
 
-🎫 No dia a dia, trabalho com atendimento e resolução de **chamados e tickets**, suporte **remoto e presencial**, acesso remoto a máquinas e troubleshooting de **hardware, software, sistemas e infraestrutura**.
+🎫 No dia a dia, trabalho com **chamados e tickets**, suporte remoto e presencial, acesso remoto, troubleshooting de **hardware, software, sistemas e infraestrutura**, além de instalação e configuração de equipamentos.
 
-🧠 Tenho perfil **curioso, comprometido e autodidata** — gosto de entender a causa raiz dos problemas e buscar soluções eficientes, sempre disposto a aprender novas tecnologias.
+🏢 Tenho experiência com **Windows, Active Directory, domínio, permissões, contas de usuários, impressoras, backups e suporte a ambientes corporativos**.
 
-🔐 **Objetivo de carreira:** migrar minha experiência em infraestrutura para **Cybersecurity**, com foco em **Segurança da Informação e SOC**.
+🌐 Atualmente estou aprofundando meus conhecimentos em **redes, administração de sistemas e infraestrutura**, buscando construir uma base sólida para atuar em Segurança da Informação.
+
+🔐 **Objetivo de carreira:** evoluir de Infraestrutura de TI para **Cybersecurity**, com interesse em **Blue Team, Segurança da Informação e SOC**.
 
 <br clear="right"/>
 
@@ -40,30 +42,37 @@
 
 <div align="center">
 
-## `♦ STACK & TECNOLOGIAS`
+## `♦ ÁREAS DE ATUAÇÃO & ESTUDO`
 
-### Infraestrutura & Suporte
+### 🖥️ Infraestrutura & Suporte
 
 <img src="https://img.shields.io/badge/Windows-0D0D0D?style=for-the-badge&logo=windows11&logoColor=00FF9C"/>
 <img src="https://img.shields.io/badge/Active%20Directory-0D0D0D?style=for-the-badge&logo=microsoft&logoColor=00FF9C"/>
 <img src="https://img.shields.io/badge/Service%20Desk-0D0D0D?style=for-the-badge&logo=zendesk&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Field%20Service-0D0D0D?style=for-the-badge&logo=serverfault&logoColor=00FF9C"/>
 <img src="https://img.shields.io/badge/Troubleshooting-0D0D0D?style=for-the-badge&logo=windowsterminal&logoColor=00FF9C"/>
 
 <br><br>
 
-### Linguagens & Desenvolvimento
+### 🌐 Redes & Sistemas
 
-<img src="https://skillicons.dev/icons?i=c,java,python,html,css,js&theme=dark" />
-
-<br><br>
-
-### Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+<img src="https://img.shields.io/badge/Networking-0D0D0D?style=for-the-badge&logo=cisco&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-0D0D0D?style=for-the-badge&logo=icloud&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/DNS-0D0D0D?style=for-the-badge&logo=cloudflare&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=00FF9C"/>
 
 <br><br>
 
-### Ferramentas & Cloud
+### 🔐 Cybersecurity
+
+<img src="https://img.shields.io/badge/Information%20Security-0D0D0D?style=for-the-badge&logo=hackthebox&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Blue%20Team-0D0D0D?style=for-the-badge&logo=shield&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/SOC-0D0D0D?style=for-the-badge&logo=securityscorecard&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Monitoring-0D0D0D?style=for-the-badge&logo=grafana&logoColor=00FF9C"/>
+
+<br><br>
+
+### 🧰 Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
@@ -73,39 +82,45 @@
 
 <div align="center">
 
-## `⌁ MEU STACK`
+## `⌁ MEU FOCO TÉCNICO`
 
 </div>
 
 <table align="center">
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🖥️ Infraestrutura
 
 ```text
-Windows           ████████████████████  avançado
-Active Directory  █████████████████░░░  avançado
-Service Desk      ████████████████████  avançado
-Field Service     ███████████████████░  avançado
-Redes             ██████████░░░░░░░░░░  aprendendo
+Windows / Suporte       ████████████████████  experiência
+Active Directory        █████████████████░░░  experiência
+Service Desk            ████████████████████  experiência
+Field Service           ███████████████████░  experiência
+Hardware                █████████████████░░░  experiência
+Troubleshooting         █████████████████░░░  experiência
+Redes                   ██████████░░░░░░░░░░  estudando
+Linux                   ████████░░░░░░░░░░░░  estudando
 ```
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💻 Desenvolvimento
+### 🔐 Cybersecurity
 
 ```text
-Java              ██████████████░░░░░░  experiência
-Python            ██████████████░░░░░░  experiência
-SQL / MySQL       █████████████░░░░░░░  experiência
-C                 ████████████░░░░░░░░  experiência
-JS / HTML / CSS   ████████████░░░░░░░░  experiência
+Fundamentos de Segurança ██████████░░░░░░░░░░  estudando
+Redes / Segurança        ██████████░░░░░░░░░░  estudando
+Blue Team                ████████░░░░░░░░░░░░  estudando
+SOC                      ███████░░░░░░░░░░░░░  estudando
+Monitoramento            ███████░░░░░░░░░░░░░  estudando
+SIEM                     █████░░░░░░░░░░░░░░░  estudando
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -119,30 +134,40 @@ JS / HTML / CSS   ████████████░░░░░░░░  
 
 <table align="center">
 <tr>
+
 <td width="50%" valign="top">
 
 ### 💻 Suporte & Field Service
 
-- Atendimento e resolução de chamados e tickets de TI
-- Suporte técnico remoto e presencial
-- Acesso remoto e suporte a estações de trabalho
-- Diagnóstico e troubleshooting de hardware e software
-- Instalação, configuração e manutenção de computadores
-- Formatação e instalação do Windows
-- Ingresso e configuração de máquinas em domínio
-- Backups, impressoras e suporte a sistemas corporativos
+* Atendimento e resolução de chamados e tickets de TI
+* Suporte técnico remoto e presencial
+* Acesso remoto a estações de trabalho
+* Diagnóstico e troubleshooting de hardware e software
+* Instalação, configuração e manutenção de computadores
+* Formatação e instalação do Windows
+* Configuração e ingresso de máquinas em domínio
+* Instalação e configuração de impressoras
+* Backups e suporte a sistemas corporativos
+* Manutenção e substituição de componentes de hardware
+* Escalonamento de incidentes conforme necessidade
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🏢 Active Directory
+### 🏢 Active Directory & Ambiente Corporativo
 
-- Administração de usuários e recursos
-- Criação e organização de usuários
-- Gerenciamento de contas e permissões
-- Configuração e suporte relacionado ao domínio
+* Administração de usuários
+* Criação, organização e gerenciamento de contas
+* Reset e gerenciamento de senhas
+* Gerenciamento de permissões
+* Suporte a máquinas ingressadas no domínio
+* Troubleshooting relacionado ao domínio
+* Organização de recursos e equipamentos
+* Atendimento seguindo processos e SLAs
 
 </td>
+
 </tr>
 </table>
 
@@ -150,9 +175,36 @@ JS / HTML / CSS   ████████████░░░░░░░░  
 
 <div align="center">
 
+## `🔐 CYBERSECURITY`
+
+</div>
+
+Atualmente estou direcionando meus estudos para **Segurança da Informação**, utilizando minha experiência em infraestrutura como base para compreender ambientes corporativos e seus principais riscos.
+
+### 📚 Atualmente estudando
+
+* Fundamentos de Cybersecurity
+* Redes e protocolos
+* Segurança de redes
+* Sistemas operacionais
+* Active Directory e segurança de ambientes Windows
+* Monitoramento de eventos
+* Detecção de incidentes
+* Conceitos de SOC e Blue Team
+* SIEM e análise de logs
+* Hardening e boas práticas de segurança
+
+### 🎯 Objetivo
+
+Construir experiência prática em **Blue Team / SOC**, evoluindo gradualmente de infraestrutura e suporte para segurança da informação.
+
+---
+
+<div align="center">
+
 ## `✧ PROJETOS`
 
-<sub>Alguns dos projetos que representam minha jornada de desenvolvimento.</sub>
+<sub>Projetos acadêmicos, estudos e experiências práticas que fazem parte da minha evolução em TI.</sub>
 
 </div>
 
@@ -172,7 +224,7 @@ JS / HTML / CSS   ████████████░░░░░░░░  
 
 <br><br>
 
-Repositório de estudos e projetos práticos na área de Segurança da Informação e Cybersecurity.
+Repositório de estudos e projetos práticos voltados para Segurança da Informação e Cybersecurity.
 
 <br><br>
 
@@ -186,20 +238,19 @@ Repositório de estudos e projetos práticos na área de Segurança da Informaç
 
 <td width="50%" valign="top">
 
-<h3 align="center">🎮 Cubethastic (Unity)</h3>
+<h3 align="center">🗄️ Banco de Dados</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C%23-00FF9C?style=flat-square&logo=csharp&logoColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Unity-171117?style=flat-square&logo=unity&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/PL%2FpgSQL-00FF9C?style=flat-square&logo=postgresql&logoColor=0d0d0d"/>
 
 <br><br>
 
-Jogo desenvolvido em Unity com C#, explorando lógica de programação e desenvolvimento de games.
+Projeto acadêmico envolvendo modelagem, banco de dados e PL/pgSQL.
 
 <br><br>
 
-<a href="https://github.com/gustafraga/cubethastic_unity">
+<a href="https://github.com/gustafraga/banco_de_dados_2">
 <img src="https://img.shields.io/badge/VER%20PROJETO-00FF9C?style=for-the-badge&logo=github&logoColor=0d0d0d"/>
 </a>
 
@@ -213,19 +264,19 @@ Jogo desenvolvido em Unity com C#, explorando lógica de programação e desenvo
 
 <td width="50%" valign="top">
 
-<h3 align="center">🗄️ Banco de Dados 2</h3>
+<h3 align="center">☕ Programação Orientada a Objetos</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PL%2FpgSQL-00FF9C?style=flat-square&logo=postgresql&logoColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Java-00FF9C?style=flat-square&logo=openjdk&logoColor=0d0d0d"/>
 
 <br><br>
 
-Projeto acadêmico com foco em banco de dados, modelagem e PL/pgSQL.
+Projeto acadêmico desenvolvido em Java aplicando conceitos de Programação Orientada a Objetos.
 
 <br><br>
 
-<a href="https://github.com/gustafraga/banco_de_dados_2">
+<a href="https://github.com/gustafraga/programacao_orientada_objeto">
 <img src="https://img.shields.io/badge/VER%20PROJETO-00FF9C?style=for-the-badge&logo=github&logoColor=0d0d0d"/>
 </a>
 
@@ -235,19 +286,19 @@ Projeto acadêmico com foco em banco de dados, modelagem e PL/pgSQL.
 
 <td width="50%" valign="top">
 
-<h3 align="center">☕ Programação Orientada a Objeto</h3>
+<h3 align="center">🎮 Cubethastic</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-00FF9C?style=flat-square&logo=openjdk&logoColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Unity-171117?style=flat-square&logo=unity&logoColor=00FF9C"/>
 
 <br><br>
 
-Projeto acadêmico em Java aplicando conceitos de Programação Orientada a Objetos.
+Projeto acadêmico desenvolvido com Unity e C# durante minha formação em Ciência da Computação.
 
 <br><br>
 
-<a href="https://github.com/gustafraga/programacao_orientada_objeto">
+<a href="https://github.com/gustafraga/cubethastic_unity">
 <img src="https://img.shields.io/badge/VER%20PROJETO-00FF9C?style=for-the-badge&logo=github&logoColor=0d0d0d"/>
 </a>
 
@@ -267,16 +318,17 @@ Projeto acadêmico em Java aplicando conceitos de Programação Orientada a Obje
 
 </div>
 
-Meu objetivo é continuar evoluindo na área de **Infraestrutura e Operações de TI**, aprofundando conhecimentos em:
+Meu objetivo profissional é continuar evoluindo em **Infraestrutura e Operações de TI**, fortalecendo minha base em ambientes corporativos e direcionando gradualmente minha carreira para **Cybersecurity**.
 
-- 🌐 Redes e protocolos
-- 🖥️ Administração de sistemas
-- 🏢 Ambientes corporativos
-- 🔐 Segurança da Informação
-- 🛡️ Cybersecurity
-- 🚨 SOC e monitoramento de segurança
+### 🚀 Próximos passos
 
-A longo prazo, pretendo direcionar minha carreira para **Cybersecurity**, unindo minha vivência em infraestrutura com conhecimento de segurança.
+* 🌐 Aprofundar conhecimentos em redes
+* 🖥️ Evoluir em administração de sistemas
+* 🏢 Aprofundar conhecimentos em ambientes Windows e Active Directory
+* 🔐 Desenvolver conhecimentos em Segurança da Informação
+* 🛡️ Estudar Blue Team e defesa de ambientes
+* 📊 Aprender ferramentas de monitoramento e SIEM
+* 🚨 Construir experiência prática em SOC
 
 ---
 
@@ -284,22 +336,20 @@ A longo prazo, pretendo direcionar minha carreira para **Cybersecurity**, unindo
 
 ## `📚 TRILHA DE ESTUDOS`
 
-</div>
-
-<div align="center">
-
 ```text
 Infraestrutura de TI
         ↓
 Redes de Computadores
         ↓
-Sistemas e Administração
+Windows / Active Directory
+        ↓
+Administração de Sistemas
         ↓
 Segurança da Informação
         ↓
-Cybersecurity
+Blue Team
         ↓
-SOC
+SOC / SIEM
 ```
 
 </div>
@@ -311,7 +361,6 @@ SOC
 ## `♦ CONTRIBUTION GARDEN`
 
 <img src="https://raw.githubusercontent.com/gustafraga/gustafraga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation das contribuições" width="95%" />
-
 
 </div>
 
@@ -341,7 +390,7 @@ SOC
 
 <br><br>
 
-<sub>Infraestrutura • Field Service • Active Directory • Cybersecurity • SOC</sub>
+<sub>Infraestrutura • Field Service • Active Directory • Redes • Cybersecurity • SOC</sub>
 
 </div>
 
