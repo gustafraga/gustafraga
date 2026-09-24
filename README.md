@@ -95,12 +95,11 @@
 
 ```text
 Windows / Suporte       ████████████████████  experiência
-Active Directory        █████████████████░░░  experiência
+Active Directory        ███████████████░░░░░  experiência
 Service Desk            ████████████████████  experiência
-Field Service           ███████████████████░  experiência
-Hardware                █████████████████░░░  experiência
+Hardware                ██████████████████░░  experiência
 Troubleshooting         █████████████████░░░  experiência
-Redes                   ██████████░░░░░░░░░░  estudando
+Redes                   █████████████░░░░░░░  estudando
 Linux                   ████████░░░░░░░░░░░░  estudando
 ```
 
@@ -111,10 +110,10 @@ Linux                   ████████░░░░░░░░░░�
 ### 🔐 Cybersecurity
 
 ```text
-Fundamentos de Segurança ██████████░░░░░░░░░░  estudando
-Redes / Segurança        ██████████░░░░░░░░░░  estudando
+Fundamentos de Segurança ███████████████░░░░░  estudando
+Redes / Segurança        ████████████░░░░░░░░  estudando
 Blue Team                ████████░░░░░░░░░░░░  estudando
-SOC                      ███████░░░░░░░░░░░░░  estudando
+SOC                      █████░░░░░░░░░░░░░░░  estudando
 Monitoramento            ███████░░░░░░░░░░░░░  estudando
 SIEM                     █████░░░░░░░░░░░░░░░  estudando
 ```
@@ -170,33 +169,6 @@ SIEM                     █████░░░░░░░░░░░░░�
 
 </tr>
 </table>
-
----
-
-<div align="center">
-
-## `🔐 CYBERSECURITY`
-
-</div>
-
-Atualmente estou direcionando meus estudos para **Segurança da Informação**, utilizando minha experiência em infraestrutura como base para compreender ambientes corporativos e seus principais riscos.
-
-### 📚 Atualmente estudando
-
-* Fundamentos de Cybersecurity
-* Redes e protocolos
-* Segurança de redes
-* Sistemas operacionais
-* Active Directory e segurança de ambientes Windows
-* Monitoramento de eventos
-* Detecção de incidentes
-* Conceitos de SOC e Blue Team
-* SIEM e análise de logs
-* Hardening e boas práticas de segurança
-
-### 🎯 Objetivo
-
-Construir experiência prática em **Blue Team / SOC**, evoluindo gradualmente de infraestrutura e suporte para segurança da informação.
 
 ---
 
