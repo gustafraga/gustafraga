@@ -312,7 +312,6 @@ SOC
 
 <img src="https://raw.githubusercontent.com/gustafraga/gustafraga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation das contribuições" width="95%" />
 
-<sub>⚠️ Ative o snake workflow no seu repositório para essa animação aparecer — veja instruções no final.</sub>
 
 </div>
 
