@@ -80,16 +80,14 @@ Administração de usuários e senhas, gerenciamento de permissões, ingresso de
 
 ---
 
-### `🎯 PRÓXIMOS PASSOS`
-
-Redes → Administração de Sistemas → AD avançado → Segurança da Informação → Blue Team → SOC/SIEM
-
----
-
-### `♦ CONTRIBUIÇÕES`
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=00FF9C" width="100%"/>
+
+### `♦ CONTRIBUTION GARDEN`
+
 <img src="https://raw.githubusercontent.com/gustafraga/gustafraga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation das contribuições" width="95%" />
+
 </div>
 
 ---
