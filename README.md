@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d0d0d,50:0f2f22,100:00ff9c&text=Gustavo%20Fraga&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Infraestrutura%20de%20TI%20%E2%80%A2%20Field%20Service%20%E2%80%A2%20Cybersecurity&descAlignY=60&descSize=18&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d0d0d,50:2b0a0d,100:ea1d2c&text=Gustavo%20Fraga&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20Engenharia%20de%20Software%20%E2%80%A2%20IA&descAlignY=60&descSize=18&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Infraestrutura+%7C+Service+Desk+%7C+Field+Service;Rumo+a+Cybersecurity+%26+SOC" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=EA1D2C&center=true&vCenter=true&width=700&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Engenharia+de+Software+%2B+Intelig%C3%AAncia+Artificial;Construindo+e+aprendendo+com+LLMs" alt="Typing Animation" />
 
 <a href="https://github.com/gustafraga">
-<img src="https://komarev.com/ghpvc/?username=gustafraga&label=VISITAS&color=00ff9c&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=gustafraga&label=VISITAS&color=ea1d2c&style=flat-square" alt="Profile views"/>
 </a>
 
 </div>
@@ -14,75 +14,57 @@
 
 ### `> whoami`
 
-🎓 Estudante de Ciência da Computação (6º semestre), atuando em **TI** com foco em **Service Desk, Field Service e infraestrutura corporativa** (Windows, Active Directory, redes, hardware).
+🎓 Estudante de **Ciência da Computação** (6º semestre, FACAPE — conclusão prevista em 2028).
 
-🔐 Migrando gradualmente para **Cybersecurity** — interesse em **Blue Team, Segurança da Informação e SOC**.
+🤖 Direcionando minha carreira para **Engenharia de Software com foco em Inteligência Artificial**: uso LLMs (Claude, ChatGPT) no dia a dia e estudo IA por conta própria.
+
+🛠️ Experiência prática em **suporte e operação de ambientes de TI** (Service Desk, Field Service, Active Directory): diagnóstico de incidentes, troubleshooting e SLAs — base que levo para manter sistemas estáveis em produção.
 
 ---
 
-### `♦ STACK & ÁREAS DE ESTUDO`
+### `♦ STACK`
 
 <div align="center">
 
-**Infraestrutura & Suporte**
+**Linguagens & Dados**
 <br>
-<img src="https://img.shields.io/badge/Windows-0D0D0D?style=for-the-badge&logo=windows11&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Active%20Directory-0D0D0D?style=for-the-badge&logo=microsoft&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Service%20Desk-0D0D0D?style=for-the-badge&logo=zendesk&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Troubleshooting-0D0D0D?style=for-the-badge&logo=windowsterminal&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=EA1D2C"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=EA1D2C"/>
+<img src="https://img.shields.io/badge/SQL%20%2F%20PL%2FpgSQL-0D0D0D?style=for-the-badge&logo=databricks&logoColor=EA1D2C"/>
+<img src="https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=EA1D2C"/>
+<img src="https://img.shields.io/badge/C%23-0D0D0D?style=for-the-badge&logo=dotnet&logoColor=EA1D2C"/>
 
 <br>
 
-**Redes & Sistemas**
+**IA (uso diário & estudo)**
 <br>
-<img src="https://img.shields.io/badge/Networking-0D0D0D?style=for-the-badge&logo=cisco&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/TCP%2FIP-0D0D0D?style=for-the-badge&logo=icloud&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/DNS-0D0D0D?style=for-the-badge&logo=cloudflare&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Claude-0D0D0D?style=for-the-badge&logo=anthropic&logoColor=EA1D2C"/>
+<img src="https://img.shields.io/badge/ChatGPT-0D0D0D?style=for-the-badge&logo=openai&logoColor=EA1D2C"/>
+<img src="https://img.shields.io/badge/LLMs-0D0D0D?style=for-the-badge&logo=probot&logoColor=EA1D2C"/>
 
 <br>
 
-**Cybersecurity (estudando)**
+**Ferramentas & Infra**
 <br>
-<img src="https://img.shields.io/badge/Information%20Security-0D0D0D?style=for-the-badge&logo=hackthebox&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Blue%20Team-0D0D0D?style=for-the-badge&logo=shield&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/SOC-0D0D0D?style=for-the-badge&logo=securityscorecard&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Monitoring-0D0D0D?style=for-the-badge&logo=grafana&logoColor=00FF9C"/>
-
-<br>
-
-**Ferramentas**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,unity,windows&theme=dark" />
 
 </div>
 
 ---
 
-### `⚙ EXPERIÊNCIA`
-
-**Suporte & Field Service**
-Chamados/tickets, suporte remoto e presencial, troubleshooting de hardware e software, formatação/instalação de Windows, instalação de impressoras, backups e manutenção de equipamentos corporativos.
-
-**Active Directory & Ambiente Corporativo**
-Administração de usuários e senhas, gerenciamento de permissões, ingresso de máquinas em domínio, troubleshooting de domínio, atendimento seguindo processos e SLAs.
-
----
-
 ### `✧ PROJETOS`
 
-| Projeto | Stack | Link |
+| Projeto | O que é | Stack |
 |---|---|---|
-| 🔐 Cybersecurity | Estudos em Segurança da Informação | [ver](https://github.com/gustafraga/cybersecurity) |
-| 🗄️ Banco de Dados | PL/pgSQL | [ver](https://github.com/gustafraga/banco_de_dados_2) |
-| ☕ POO | Java | [ver](https://github.com/gustafraga/programacao_orientada_objeto) |
-| 🎮 Cubethastic | Unity / C# | [ver](https://github.com/gustafraga/cubethastic_unity) |
+| 🗄️ [CS2Market Analytics](https://github.com/gustafraga/banco_de_dados_2) | Banco relacional para inventário e mercado de skins de CS2: procedures de venda, função de valor de inventário e triggers que atualizam saldo e transferem itens a cada transação (projeto em equipe) | PostgreSQL · PL/pgSQL |
+| 🎮 [Cubethastic](https://github.com/gustafraga/cubethastic_unity) | Jogo em Unity com movimentação, colisão, pontuação, menu e conclusão de fase | Unity · C# |
+| ☕ [POO em Java](https://github.com/gustafraga/programacao_orientada_objeto) | Modelagem de domínios com herança e classes abstratas | Java |
+
+🌱 **Próximo passo:** publicar aqui meus primeiros projetos com IA em Python.
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&color=00FF9C" width="100%"/>
 
 ### `♦ CONTRIBUTION GARDEN`
 
@@ -97,22 +79,22 @@ Administração de usuários e senhas, gerenciamento de permissões, ingresso de
 ### `⌁ CONTATO`
 
 <a href="https://www.linkedin.com/in/gustafraga/">
-<img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=EA1D2C"/>
 </a>
 <a href="https://instagram.com/gustafraga">
-<img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=EA1D2C"/>
 </a>
 <a href="mailto:gustavomlfraga@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=EA1D2C"/>
 </a>
 <a href="https://github.com/gustafraga">
-<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=EA1D2C"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ff9c,50:0f2f22,100:0d0d0d&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ea1d2c,50:2b0a0d,100:0d0d0d&section=footer" width="100%" />
 
-<sub>Construindo bases sólidas em infraestrutura, rumo à Cybersecurity. 🔐</sub>
+<sub>Da infraestrutura à Inteligência Artificial — construindo e aprendendo. 🤖</sub>
 
 </div>
