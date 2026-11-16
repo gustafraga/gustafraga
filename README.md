@@ -63,7 +63,7 @@
 | Projeto | O que é | Stack |
 |---|---|---|
 | 🛡️ [DeskGuard](https://github.com/gustafraga/DeskGuard) | Plataforma local que automatiza o diagnóstico de primeiro atendimento do Service Desk Windows e gera o relatório técnico do chamado. Arquitetura em camadas, 307 testes automatizados (86% de cobertura), CI com GitHub Actions e executável único. Desenvolvido com apoio de LLMs | Python · FastAPI · PowerShell · SQLite · pytest |
-| 🏨 Site do Macedo Gold Hotel | Site e identidade visual de um hotel em Xique-Xique (BA): páginas de suítes, restaurante e contato, calendário de reserva e publicação automática na Vercel (repositório privado) | HTML · CSS · JavaScript · Vercel |
+| 🏨 Site do Macedo Gold Hotel | Site e identidade visual entregues a um cliente real (hotel em Xique-Xique, BA) e construídos com IA: páginas de suítes, restaurante e contato, calendário de reserva e publicação automática na Vercel (repositório privado) | HTML · CSS · JavaScript · Vercel |
 | 🗄️ [CS2Market Analytics](https://github.com/gustafraga/banco_de_dados_2) | Banco relacional para inventário e mercado de skins de CS2: procedures de venda, função de valor de inventário e triggers que atualizam saldo e transferem itens a cada transação (projeto em equipe) | PostgreSQL · PL/pgSQL |
 | 🎮 [Cubethastic](https://github.com/gustafraga/cubethastic_unity) | Jogo em Unity com movimentação, colisão, pontuação, menu e conclusão de fase | Unity · C# |
 | ☕ [POO em Java](https://github.com/gustafraga/programacao_orientada_objeto) | Modelagem de domínios com herança e classes abstratas | Java |
