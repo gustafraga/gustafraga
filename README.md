@@ -16,7 +16,9 @@
 
 🎓 Estudante de **Ciência da Computação** (6º semestre, FACAPE — conclusão prevista em 2028).
 
-🤖 Direcionando minha carreira para **Engenharia de Software com foco em Inteligência Artificial**: uso LLMs (Claude, ChatGPT) no dia a dia e estudo IA por conta própria.
+🤖 Sempre gostei de IA e direciono minha carreira para **Engenharia de Software com foco em Inteligência Artificial**: uso LLMs (DeepSeek, Gemini, Claude, ChatGPT) no dia a dia para aprender e construir.
+
+🚀 Criei o **[DeskGuard](https://github.com/gustafraga/DeskGuard)** a partir de um problema real da minha rotina de Service Desk, com apoio de LLMs: Python, FastAPI e 307 testes automatizados.
 
 🛠️ Experiência prática em **suporte e operação de ambientes de TI** (Service Desk, Field Service, Active Directory): diagnóstico de incidentes, troubleshooting e SLAs — base que levo para manter sistemas estáveis em produção.
 
@@ -29,6 +31,8 @@
 **Linguagens & Dados**
 <br>
 <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=EA1D2C"/>
+<img src="https://img.shields.io/badge/FastAPI-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=EA1D2C"/>
+<img src="https://img.shields.io/badge/pytest-0D0D0D?style=for-the-badge&logo=pytest&logoColor=EA1D2C"/>
 <img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=EA1D2C"/>
 <img src="https://img.shields.io/badge/SQL%20%2F%20PL%2FpgSQL-0D0D0D?style=for-the-badge&logo=databricks&logoColor=EA1D2C"/>
 <img src="https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=EA1D2C"/>
@@ -38,6 +42,8 @@
 
 **IA (uso diário & estudo)**
 <br>
+<img src="https://img.shields.io/badge/DeepSeek-0D0D0D?style=for-the-badge&logo=deepseek&logoColor=EA1D2C"/>
+<img src="https://img.shields.io/badge/Gemini%20%2F%20AI%20Studio-0D0D0D?style=for-the-badge&logo=googlegemini&logoColor=EA1D2C"/>
 <img src="https://img.shields.io/badge/Claude-0D0D0D?style=for-the-badge&logo=anthropic&logoColor=EA1D2C"/>
 <img src="https://img.shields.io/badge/ChatGPT-0D0D0D?style=for-the-badge&logo=openai&logoColor=EA1D2C"/>
 <img src="https://img.shields.io/badge/LLMs-0D0D0D?style=for-the-badge&logo=probot&logoColor=EA1D2C"/>
@@ -56,11 +62,12 @@
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| 🛡️ [DeskGuard](https://github.com/gustafraga/DeskGuard) | Plataforma local que automatiza o diagnóstico de primeiro atendimento do Service Desk Windows e gera o relatório técnico do chamado. Arquitetura em camadas, 307 testes automatizados (86% de cobertura), CI com GitHub Actions e executável único. Desenvolvido com apoio de LLMs | Python · FastAPI · PowerShell · SQLite · pytest |
 | 🗄️ [CS2Market Analytics](https://github.com/gustafraga/banco_de_dados_2) | Banco relacional para inventário e mercado de skins de CS2: procedures de venda, função de valor de inventário e triggers que atualizam saldo e transferem itens a cada transação (projeto em equipe) | PostgreSQL · PL/pgSQL |
 | 🎮 [Cubethastic](https://github.com/gustafraga/cubethastic_unity) | Jogo em Unity com movimentação, colisão, pontuação, menu e conclusão de fase | Unity · C# |
 | ☕ [POO em Java](https://github.com/gustafraga/programacao_orientada_objeto) | Modelagem de domínios com herança e classes abstratas | Java |
 
-🌱 **Próximo passo:** publicar aqui meus primeiros projetos com IA em Python.
+🌱 **Próximo passo:** integrar LLMs diretamente nos meus projetos em Python, começando por um assistente que interpreta os diagnósticos do DeskGuard.
 
 ---
 
