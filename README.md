@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d0d0d,50:2b0a0d,100:ea1d2c&text=Gustavo%20Fraga&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20Engenharia%20de%20Software%20%E2%80%A2%20IA&descAlignY=60&descSize=18&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=EA1D2C&center=true&vCenter=true&width=700&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Engenharia+de+Software+%2B+Intelig%C3%AAncia+Artificial;Construindo+e+aprendendo+com+LLMs" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=EA1D2C&center=true&vCenter=true&width=700&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;IA+aplicada+e+automa%C3%A7%C3%A3o;Service+Desk+e+infraestrutura" alt="Typing Animation" />
 
 <a href="https://github.com/gustafraga">
 <img src="https://komarev.com/ghpvc/?username=gustafraga&label=VISITAS&color=ea1d2c&style=flat-square" alt="Profile views"/>
