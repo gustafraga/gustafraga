@@ -14,19 +14,19 @@
 
 ### `> whoami`
 
-🎓 Estudante de **Ciência da Computação** (6º semestre, FACAPE — conclusão prevista em 2028).
+🎓 Ciência da Computação, 6º semestre na FACAPE (formatura em 2028).
 
-🤖 Sempre gostei de IA. Meu foco é **IA aplicada a problemas reais de negócio**: entender a dor de quem usa, desenhar a solução e entregar com LLMs, automação e integrações.
+🛠️ Estagiário de TI no Grupo Parvi: chamados, Active Directory, redes, impressoras e Windows.
 
-🛠️ No dia a dia trabalho com **Service Desk e infraestrutura de TI** (Active Directory, redes, troubleshooting e SLAs). Foi nessa rotina que nasceu o **[DeskGuard](https://github.com/gustafraga/DeskGuard)**, construído com apoio de LLMs: Python, FastAPI e 307 testes automatizados.
+🤖 Uso IA para tirar trabalho repetitivo do caminho. Eu rodava os mesmos diagnósticos à mão em todo chamado, então construí o **[DeskGuard](https://github.com/gustafraga/DeskGuard)** com ajuda do DeepSeek e do Google AI Studio. Ele roda os diagnósticos e gera o relatório do chamado.
 
-🗣️ Gosto de conversar com pessoas e explicar tecnologia de um jeito simples. Quero levar isso para apresentações e palestras.
+🗣️ Quero trabalhar implantando IA em empresas e apresentar o que construo em eventos.
 
 ---
 
 ### `⌁ ESTUDANDO AGORA`
 
-Sigo um plano de 9 meses para trabalhar com IA aplicada e automação:
+Plano de 9 meses, começado em novembro de 2026:
 
 | Fase | Tema | Status |
 |---|---|---|
@@ -116,6 +116,5 @@ Sigo um plano de 9 meses para trabalhar com IA aplicada e automação:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ea1d2c,50:2b0a0d,100:0d0d0d&section=footer" width="100%" />
 
-<sub>Da infraestrutura à Inteligência Artificial — construindo e aprendendo. 🤖</sub>
 
 </div>
