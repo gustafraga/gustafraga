@@ -16,11 +16,24 @@
 
 🎓 Estudante de **Ciência da Computação** (6º semestre, FACAPE — conclusão prevista em 2028).
 
-🤖 Sempre gostei de IA e direciono minha carreira para **Engenharia de Software com foco em Inteligência Artificial**: uso LLMs (DeepSeek, Gemini, Claude, ChatGPT) no dia a dia para aprender e construir.
+🤖 Sempre gostei de IA. Meu foco é **IA aplicada a problemas reais de negócio**: entender a dor de quem usa, desenhar a solução e entregar com LLMs, automação e integrações.
 
-🚀 Criei o **[DeskGuard](https://github.com/gustafraga/DeskGuard)** a partir de um problema real da minha rotina de Service Desk, com apoio de LLMs: Python, FastAPI e 307 testes automatizados.
+🛠️ No dia a dia trabalho com **Service Desk e infraestrutura de TI** (Active Directory, redes, troubleshooting e SLAs). Foi nessa rotina que nasceu o **[DeskGuard](https://github.com/gustafraga/DeskGuard)**, construído com apoio de LLMs: Python, FastAPI e 307 testes automatizados.
 
-🛠️ Experiência prática em **suporte e operação de ambientes de TI** (Service Desk, Field Service, Active Directory): diagnóstico de incidentes, troubleshooting e SLAs — base que levo para manter sistemas estáveis em produção.
+🗣️ Gosto de conversar com pessoas e explicar tecnologia de um jeito simples. Quero levar isso para apresentações e palestras.
+
+---
+
+### `⌁ ESTUDANDO AGORA`
+
+Sigo um plano de 9 meses para trabalhar com IA aplicada e automação:
+
+| Fase | Tema | Status |
+|---|---|---|
+| 1 | LLMs, prompt engineering, Python e APIs | 🔄 em andamento |
+| 2 | Automação (n8n), agentes e RAG | ⏳ próxima |
+| 3 | Cloud, deploy e segurança de IA | ⏳ |
+| 4 | Soluções com IA para um negócio real | ⏳ |
 
 ---
 
@@ -68,7 +81,7 @@
 | 🎮 [Cubethastic](https://github.com/gustafraga/cubethastic_unity) | Jogo em Unity com movimentação, colisão, pontuação, menu e conclusão de fase | Unity · C# |
 | ☕ [POO em Java](https://github.com/gustafraga/programacao_orientada_objeto) | Modelagem de domínios com herança e classes abstratas | Java |
 
-🌱 **Próximo passo:** integrar LLMs diretamente nos meus projetos em Python, começando por um assistente que interpreta os diagnósticos do DeskGuard.
+🌱 **Em construção:** um resumidor de chamados com LLM e o **DeskGuard Assistente**, que sugere procedimentos de Service Desk com base em documentos (RAG), citando a fonte.
 
 ---
 
