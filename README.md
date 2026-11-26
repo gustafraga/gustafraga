@@ -18,7 +18,7 @@
 
 🛠️ Estagiário de TI no Grupo Parvi: chamados, Active Directory, redes, impressoras e Windows.
 
-🤖 Uso IA para tirar trabalho repetitivo do caminho. Eu rodava os mesmos diagnósticos à mão em todo chamado, então construí o **[DeskGuard](https://github.com/gustafraga/DeskGuard)** com ajuda do DeepSeek e do Google AI Studio. Ele roda os diagnósticos e gera o relatório do chamado.
+🤖 Uso IA para automatizar trabalho repetitivo. Eu rodava os mesmos diagnósticos à mão em todo chamado, então construí o **[DeskGuard](https://github.com/gustafraga/DeskGuard)** com ajuda do DeepSeek e do Google AI Studio. Ele roda os diagnósticos e gera o relatório do chamado.
 
 🗣️ Quero trabalhar implantando IA em empresas e apresentar o que construo em eventos.
 
